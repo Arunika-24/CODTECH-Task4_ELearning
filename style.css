@@ -1,0 +1,17 @@
+body{
+font-family:Arial;
+padding:20px;
+}
+
+.courses{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+}
+
+.course{
+border:1px solid #ccc;
+padding:15px;
+width:350px;
+border-radius:10px;
+}
